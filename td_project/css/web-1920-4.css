@@ -1,0 +1,377 @@
+/* screen - web-1920-4 */
+
+.web-1920-4 {
+  background: linear-gradient(180deg, #2700f6 0%, #000000 39.32%, #000109 100%);
+  background-color: rgba(255,255,255,1.0);
+  height: 1302px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-4 .rectangle-19-KxZxWW {
+  background: linear-gradient(180deg, #f2c34c 0%, #ffec74 0%, #ffc013 100%, #9b7b26 100%, #6d5310 100%);
+  background-color: transparent;
+  height: 984px;
+  left: 638px;
+  position: absolute;
+  top: 204px;
+  width: 642px;
+}
+
+.web-1920-4 .rectangle-19-ENs7j8 {
+  background: linear-gradient(180deg, #f2c34c 0%, #ffec74 0%, #ffc013 100%, #9b7b26 100%, #6d5310 100%);
+  background-color: transparent;
+  height: 138px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-4 .textbox-p {
+  background-color: var(--white);
+  height: 27px;
+  left: 1538px;
+  position: absolute;
+  top: 71px;
+  width: 139px;
+}
+
+.web-1920-4 .textbox-u {
+  background-color: var(--white);
+  height: 27px;
+  left: 1358px;
+  position: absolute;
+  top: 71px;
+  width: 139px;
+}
+
+.web-1920-4 .user-name-KxZxWW {
+  background-color: transparent;
+  height: 36px;
+  left: 1358px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 111px;
+}
+
+.web-1920-4 .password-KxZxWW {
+  background-color: transparent;
+  height: 36px;
+  left: 1538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 89px;
+}
+
+.web-1920-4 .for-got-plassword-KxZxWW {
+  background-color: transparent;
+  color: #f21a1a;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: 168px;
+}
+
+.web-1920-4 .dota-2-logo-700x394-KxZxWW {
+  background-color: transparent;
+  height: 115px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 159px;
+}
+
+.web-1920-4 .rectangle-17-KxZxWW {
+  background: linear-gradient(180deg, #800000 0%, #a20909 0%, #400000 100%);
+  background-color: transparent;
+  border-radius: 33px;
+  height: 823px;
+  left: 663px;
+  position: absolute;
+  top: 342px;
+  width: 591px;
+}
+
+.web-1920-4 .register-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 914px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 263px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-4 .textbox-1{
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 703px;
+  position: absolute;
+  top: 404px;
+  width: 511px;
+
+}
+
+.web-1920-4 .textbox-2 {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 703px;
+  position: absolute;
+  top: 506px;
+  width: 511px;
+}
+
+.web-1920-4 .textbox-3 {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 703px;
+  position: absolute;
+  top: 608px;
+  width: 511px;
+}
+
+.web-1920-4 .textbox-4 {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 703px;
+  position: absolute;
+  top: 710px;
+  width: 511px;
+}
+
+.web-1920-4 .textbox-5 {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 703px;
+  position: absolute;
+  top: 812px;
+  width: 511px;
+}
+
+.web-1920-4 .textbox-6 {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 49px;
+  left: 711px;
+  position: absolute;
+  top: 914px;
+  width: 511px;
+}
+
+.web-1920-4 .user-name-ENs7j8 {
+  background-color: transparent;
+  height: auto;
+  left: 704px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 359px;
+  width: 132px;
+}
+
+.web-1920-4 .password-ENs7j8 {
+  background-color: transparent;
+  height: auto;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 464px;
+  width: 132px;
+}
+
+.web-1920-4 .confirm-password-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 702px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 561px;
+  width: 214px;
+}
+
+.web-1920-4 .e-mail-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 704px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 664px;
+  width: 132px;
+}
+
+.web-1920-4 .confirm-e-mail-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 704px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 765px;
+  width: 271px;
+}
+
+.web-1920-4 .id-steam-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 706px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 875px;
+  width: 271px;
+}
+
+.web-1920-4 .rectangle-31-KxZxWW {
+  background: linear-gradient(180deg, #11e911 0%, #6dff83 0%, #13e38e 66.36%, #15ddad 100%, #16dc85 100%, #18d5c2 100%);
+  background-color: transparent;
+  border-radius: 19px;
+  cursor: pointer;
+  height: 59px;
+  left: 1003px;
+  position: absolute;
+  top: 1066px;
+  width: 211px;
+}
+
+.web-1920-4 .rectangle-32-KxZxWW {
+  background: linear-gradient(180deg, #b44db4 0%, #f9f9f9 0%, #919191 54.81%, #565656 100%);
+  background-color: transparent;
+  border-radius: 19px;
+  cursor: pointer;
+  height: 59px;
+  left: 706px;
+  position: absolute;
+  top: 1066px;
+  width: 211px;
+}
+
+.web-1920-4 .textlabel-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 781px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1083px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-4 .textlabel-ENs7j8 {
+  background-color: transparent;
+  height: auto;
+  left: 1082px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1083px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-4 .rectangle-2-KxZxWW {
+  background: linear-gradient(180deg, #11e911 0%, #00fea7 100%);
+  background-color: transparent;
+  border-radius: 21px;
+  cursor: pointer;
+  height: 41px;
+  left: 1737px;
+  position: absolute;
+  top: 32px;
+  width: 100px;
+}
+
+.web-1920-4 .login-KxZxWW {
+  -webkit-text-stroke: 1px var(--asphalt);
+  background-color: transparent;
+  height: 32px;
+  left: 1755px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 68px;
+}
+
+.web-1920-4 .rectangle-5-KxZxWW {
+  background: linear-gradient(180deg, #f50d0d 0%, #ffa200 100%);
+  background-color: transparent;
+  border-radius: 21px;
+  height: 41px;
+  left: 1735px;
+  position: absolute;
+  top: 84px;
+  width: 100px;
+}
+
+.web-1920-4 .register-ENs7j8 {
+  -webkit-text-stroke: 1px var(--asphalt);
+  background-color: transparent;
+  height: 38px;
+  left: 1748px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 89px;
+  width: 81px;
+}
+
+.web-1920-4 .pngwingcom-3-KxZxWW {
+  background-color: transparent;
+  height: 570px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 422px;
+  width: 560px;
+}
+
+.web-1920-4 .pngwingcom-4-KxZxWW {
+  background-color: transparent;
+  height: 630px;
+  left: 1235px;
+  object-fit: cover;
+  position: absolute;
+  top: 450px;
+  width: 810px;
+}
+
